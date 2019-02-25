@@ -1,0 +1,19 @@
+{
+  "name": "reqparam1",
+  "version": "1.0.0",
+  "description": "demo of req params",
+  "main": "app4.js",
+  "scripts": {
+    "start": "nodemon getpost_form.js"
+  },
+  "keywords": [
+    "req",
+    "express"
+  ],
+  "author": "Akhil",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+
+  }
+}
